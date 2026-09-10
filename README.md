@@ -1,36 +1,28 @@
-## Hi there! I am Zach Frame👋
+# Zach Frame
 
-Army Ranger Veteran | Computer Science @ BYU | Aspiring ML & Data Scientist
+**Computer Engineering @ BYU · Army Ranger Veteran · Active Secret Clearance**
 
-I am a transitioning military service member and current Computer Science undergraduate at Brigham Young University, specializing in the Machine Learning pathway. My background combines elite leadership experience as a U.S. Army Ranger Team Leader with technical training in Cloud Administration, Data Science, and Python scripting.
-I thrive on turning "messy" data into clear, actionable decisions through robust pipelines and disciplined execution.
+I build software for the physical world. I’m a Computer Engineering student at Brigham Young University, graduating in **April 2029**, with interests in embedded systems, software, hardware/software integration, UAVs, robotics, and defense technology.
 
-🚀 Technical Expertise
-Languages & Data: Python (pandas, NumPy), SQL, Bash, Jupyter Notebooks.
-Machine Learning & Analytics: Exploratory Data Analysis (EDA), Regression/Classification, predictive modeling, and metrics validation (MAE/RMSE, precision/recall).
-Cloud & Infrastructure: AWS (Cloud Practitioner), Azure, Windows Server (AD/DNS), and Linux (Ubuntu CLI).
+Before BYU, I served as a U.S. Army Ranger team leader. That experience shaped how I approach engineering: stay calm, take ownership, communicate clearly, and follow through.
 
-Version Control: Advanced Git/GitHub workflows, including CI/CD and automation basics.
+[Portfolio](https://zachframe01.github.io) · [LinkedIn](https://www.linkedin.com/in/zacharyframe01/) · [Projects](https://github.com/zachframe01?tab=repositories)
 
-Tools: Tableau, Power BI, Microsoft Excel (Financial Analysis/Pivot Tables), Salesforce.
+## What I’m focused on
 
-🛡️ Professional Background & Leadership
-U.S. Army Ranger Team Leader (75th Ranger Regiment): Led a 12-person team in high-stakes environments, managing $500K+ in equipment with zero loss through standardized SOPs and disciplined status reporting.
-M&A Team Lead (Vermilion Rock Advisors): Managed a remote team of 50 interns, building Excel trackers and playbooks that standardized workflow efficiency for investment banking research.
-Washington Vets2Tech Graduate: Completed an intensive 18-credit program focused on Server and Cloud Administration.
+- Embedded systems and software engineering
+- Hardware/software integration and practical, system-level problem solving
+- UAVs, robotics, autonomy, aerospace, and defense technology
+- Building hands-on technical depth toward long-term technical leadership and technical program management
 
-🎓 Education & Certifications
+## Featured project
 
-B.S. in Computer Science (ML Emphasis) – Brigham Young University (In Progress).
-Associate in Science (Liberal Arts) – Excelsior University.
+### [Project AERIS](https://github.com/zachframe01/Hackathon)
 
-Certifications:
-AWS Certified Cloud Practitioner (In Progress).
-Oracle OCI Associate & AI Foundations Associate.
-Microsoft Office Specialist (Excel & Word).
+A 2026 team hackathon prototype for reviewing drone footage for possible rescue targets. AERIS uses person detection and multi-object tracking to produce annotated video and a structured target log for human review. I built the video-processing pipeline, including frame ingestion, output-video preservation, performance tracking, and results export.
 
-Clearance: Active U.S. Secret Security Clearance
+**Python · OpenCV · YOLO · Streamlit**
 
-📫 How to reach me: framez@byu.edu
-LinkedIn: https://www.linkedin.com/in/zacharyframe01/
-⚡ Fun fact: I Love rock climbing, being outdoors and working out
+---
+
+I’m currently looking for opportunities to learn and contribute in embedded systems, software engineering, autonomy, aerospace, and defense technology.
